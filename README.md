@@ -60,13 +60,15 @@ Customer & Product insights :
 PowerBI-Ecommerce-Analysis
 │
 ├── dataset
-│   └── superstore.csv
+│   └── Sample - superstore.csv
 │
 ├── dashboard
-│   └── ecommerce_dashboard.pbix
+│   └── e-commerce-analysis.pbix
 │
 ├── images
-│   └── dashboard_preview.png
+│   └── customer_analysis.png
+│   └── product_analysis.png
+│   └── sales_dashboard.png
 │
 └── README.md
 ```
