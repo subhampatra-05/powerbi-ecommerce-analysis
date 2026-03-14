@@ -44,11 +44,13 @@ Provides deeper insights into customer behavior and product performance:
 
 ## Dashboard Preview
 
-(Add screenshot images here)
-
-Example:
+Overview Dashboard :
 
 ![Dashboard Preview](images/sales_dashboard.png)
+
+Customer & Product insights :
+
+![Dashboard Preview](images/customer_analysis.png)
 
 ---
 
